@@ -1,0 +1,7 @@
+== DNS Packet Dissector
+
+1.5 days of hard-coding and now it is working. And working nice.
+
+Included files:
+* dns.so - compiled library for Wireshark (for Linux x64). Place it into your plugins folder inside Wireshark
+* src/ - directory with source files. Visit http://wireshark.org to know how to compile it.
